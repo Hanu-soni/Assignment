@@ -20,4 +20,11 @@
 
 // In the given array, there are 9 airports, the plane at the starting airport has 1 unit of 
 //fuel, so you can hire this plane and stop at the 2nd airport only. The plane at the 2nd 
-//airport has 6 units of fuel, so it can fly to the 3rd, 4th, 5th, 6th, 7th, or 8th airport. If we take the plane at the 5th airport, the minimum number of planes required in this case is three 1 → 6 → 5 → 6
+//airport has 6 units of fuel, so it can fly to the 3rd, 4th, 5th, 6th, 7th, or 8th airport. If we take the plane at the 5th airport, the minimum numbe
+//r of planes required in this case is three 1 → 6 → 5 → 6
+
+//seeing the problem , we can implement sum of arrays concept
+//[5,3,4,0,2,1,1,1]
+//arr[0]--->arr.length----return;>=
+//arr.length-arr[0]
+//5--1-2-3-4-5===3
