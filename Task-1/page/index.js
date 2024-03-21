@@ -73,7 +73,7 @@ const getColorSpecificBackground = (color) => {
 
 const getUmbrellaImagePath = (color) => {
     const imagePaths = {
-        'yellow': 'assets/Yellow umbrella.png',
+        'yellow': 'assets/Yello umbrella.png',
         'pink': 'assets/Pink umbrella.png',
         'blue': 'assets/Blue umbrella.png'
     };
